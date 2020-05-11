@@ -8,6 +8,7 @@ Projeto de servidor para aquisição de dados de sensores e envio dos dados para
   ### Languages
 
  * Javascript
+ * C
  * HTLM
  * CSS
  * MySQL
